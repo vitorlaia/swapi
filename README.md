@@ -1,5 +1,5 @@
 # swapi
-Projeto de consumo da API Swapi Star Wars
+Projeto de consumo da API Swapi Star Wars <br>
 EndPoints
 /swapi/rest/starships/ -> retorna um array Json contendo as naves
 /swapi/rest//starships/{name} -> retorna os detalhes da nave determinado pela variavel name
