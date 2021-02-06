@@ -1,5 +1,6 @@
 # swapi
-Projeto de consumo da API Swapi Star Wars <br>
+Projeto de consumo da API Swapi Star Wars <br><br>
+Projeto realizado utilizando Netbeans 8.2 e Java 8 <br><br>
 EndPoints<br>
 /swapi/rest/starships/ -> retorna um array Json contendo as naves<br>
 /swapi/rest//starships/{name} -> retorna os detalhes da nave determinado pela variavel name<br>
